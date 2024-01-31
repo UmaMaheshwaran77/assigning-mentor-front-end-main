@@ -1,0 +1,29 @@
+.label{
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+}
+
+
+.heading{
+  font-family: 'Times New Roman', Times, serif;
+  color: blue;
+}
+
+
+
+.home-container{
+  background-color: aquamarine;
+  height: 120vh;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  /* overflow-y: auto;  */
+}
+
+
+/* .card_body{
+  background-color: papayawhip;
+} */
+
